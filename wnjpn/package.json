@@ -1,0 +1,17 @@
+{
+  "name": "wnjpn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "unzip": "node unzip.js",
+    "query": "node query.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/sqlite3": "^3.1.1",
+    "sqlite3": "^3.1.13"
+  }
+}
